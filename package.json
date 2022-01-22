@@ -10,5 +10,8 @@
     "parcel"
   ],
   "author": "dan moneypenny",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  }
 }
