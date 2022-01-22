@@ -10,3 +10,4 @@
 #parcel
 .parcel-cache
 /public
+/dev
