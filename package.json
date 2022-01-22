@@ -12,6 +12,7 @@
   "scripts": {
     "start": "rm -rf dev && parcel --open --port 3030 --dist-dir dev",
     "build": "parcel build",
+    "build:local": "rm -rf public && parcel build",
     "server": "json-server --watch db.json --port 5000",
     "dev": "concurrently \"npm run server\" \"npm start\"",
     "clear": "rm -rf public"

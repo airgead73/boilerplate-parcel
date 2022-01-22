@@ -1,0 +1,24 @@
+{
+  "authors": [
+    {
+      "id": "author_1",
+      "name": "James Joyce"
+    },
+    {
+      "id": "author_2",
+      "name": "William Berger"
+    }
+  ],
+  "books": [
+    {
+      "id": "book_1",
+      "title": "Ulysses",
+      "author": "author_1"
+    },
+    {
+      "id": "book_2",
+      "title": "Little Big Man",
+      "author": "author_2"
+    }    
+  ]
+}
