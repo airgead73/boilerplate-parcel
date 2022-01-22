@@ -1,13 +1,14 @@
 console.log('script is loaded');
 
+
 const fetchAuthors = async () => {
-  const response = await fetch("http://localhost:5000/authors");
+  const response = await fetch("/authors");
   const data = await response.json();
   console.log("authors", data);
 }
 
 const fetchBooks = async () => {
-  const response = await fetch("http://localhost:5000/books");
+  const response = await fetch("/books");
   const data = await response.json();
   console.log("books", data);
 }
