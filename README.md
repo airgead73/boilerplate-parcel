@@ -1,0 +1,1 @@
+# Boilerplate for web apps using parcel

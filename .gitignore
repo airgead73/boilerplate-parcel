@@ -1,0 +1,12 @@
+# misc
+.DS_Store
+
+# environment
+.env
+
+# dependencies
+/node_modules
+
+#parcel
+.parcel-cache
+/public

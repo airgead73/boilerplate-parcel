@@ -1,0 +1,14 @@
+{
+  "name": "boilerplate-parcel",
+  "version": "1.0.0",
+  "description": "boilerplate for web apps using parcel",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parcel"
+  ],
+  "author": "dan moneypenny",
+  "license": "MIT"
+}
